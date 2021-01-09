@@ -1,0 +1,22 @@
+{
+  "name": "smart_contract",
+  "version": "1.0.0",
+  "description": "Implementation of different kind of smart contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muddassarshaikh/smart_contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muddassarshaikh/smart_contract/issues"
+  },
+  "homepage": "https://github.com/muddassarshaikh/smart_contract#readme"
+}
